@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/pruebaSmart/static/css/main.2dd1f77c.chunk.css",
-    "main.js": "/pruebaSmart/static/js/main.1e416be3.chunk.js",
-    "main.js.map": "/pruebaSmart/static/js/main.1e416be3.chunk.js.map",
-    "runtime-main.js": "/pruebaSmart/static/js/runtime-main.f7e48458.js",
-    "runtime-main.js.map": "/pruebaSmart/static/js/runtime-main.f7e48458.js.map",
-    "static/css/2.2d63d0b4.chunk.css": "/pruebaSmart/static/css/2.2d63d0b4.chunk.css",
-    "static/js/2.1ff11a3f.chunk.js": "/pruebaSmart/static/js/2.1ff11a3f.chunk.js",
-    "static/js/2.1ff11a3f.chunk.js.map": "/pruebaSmart/static/js/2.1ff11a3f.chunk.js.map",
-    "index.html": "/pruebaSmart/index.html",
-    "precache-manifest.ac1b67c917b41887e020bddc49593a9c.js": "/pruebaSmart/precache-manifest.ac1b67c917b41887e020bddc49593a9c.js",
-    "service-worker.js": "/pruebaSmart/service-worker.js",
-    "static/css/2.2d63d0b4.chunk.css.map": "/pruebaSmart/static/css/2.2d63d0b4.chunk.css.map",
-    "static/css/main.2dd1f77c.chunk.css.map": "/pruebaSmart/static/css/main.2dd1f77c.chunk.css.map",
-    "static/js/2.1ff11a3f.chunk.js.LICENSE.txt": "/pruebaSmart/static/js/2.1ff11a3f.chunk.js.LICENSE.txt"
+    "main.css": "/Deploy-Prueba/static/css/main.2dd1f77c.chunk.css",
+    "main.js": "/Deploy-Prueba/static/js/main.1e416be3.chunk.js",
+    "main.js.map": "/Deploy-Prueba/static/js/main.1e416be3.chunk.js.map",
+    "runtime-main.js": "/Deploy-Prueba/static/js/runtime-main.49d5c55d.js",
+    "runtime-main.js.map": "/Deploy-Prueba/static/js/runtime-main.49d5c55d.js.map",
+    "static/css/2.2d63d0b4.chunk.css": "/Deploy-Prueba/static/css/2.2d63d0b4.chunk.css",
+    "static/js/2.2fcd48d8.chunk.js": "/Deploy-Prueba/static/js/2.2fcd48d8.chunk.js",
+    "static/js/2.2fcd48d8.chunk.js.map": "/Deploy-Prueba/static/js/2.2fcd48d8.chunk.js.map",
+    "index.html": "/Deploy-Prueba/index.html",
+    "precache-manifest.cf325d53e8b47d790eb560dcb2ed72ad.js": "/Deploy-Prueba/precache-manifest.cf325d53e8b47d790eb560dcb2ed72ad.js",
+    "service-worker.js": "/Deploy-Prueba/service-worker.js",
+    "static/css/2.2d63d0b4.chunk.css.map": "/Deploy-Prueba/static/css/2.2d63d0b4.chunk.css.map",
+    "static/css/main.2dd1f77c.chunk.css.map": "/Deploy-Prueba/static/css/main.2dd1f77c.chunk.css.map",
+    "static/js/2.2fcd48d8.chunk.js.LICENSE.txt": "/Deploy-Prueba/static/js/2.2fcd48d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7e48458.js",
+    "static/js/runtime-main.49d5c55d.js",
     "static/css/2.2d63d0b4.chunk.css",
-    "static/js/2.1ff11a3f.chunk.js",
+    "static/js/2.2fcd48d8.chunk.js",
     "static/css/main.2dd1f77c.chunk.css",
     "static/js/main.1e416be3.chunk.js"
   ]
